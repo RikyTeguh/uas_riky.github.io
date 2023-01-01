@@ -1,0 +1,51 @@
+#myvideo {
+    position: fixed;
+    right:0;
+    bottom:0;
+    width:100%;
+    min-height:100%;
+}
+.pertama {
+    position: fixed;
+    margin-left: 600px;
+    margin-top:500px;
+}
+.link {
+    text-decoration: none;
+    color:white;
+}
+.link :hover{
+    transition: all 1s ease;
+}
+table :hover {
+    background-color: white;
+    color: black;
+    transition: all 1s ease;
+}
+footer img{
+    position: fixed;
+    width:15%;
+    height:15%;
+    bottom: 0;
+    margin-left: 30px;
+}
+footer p{
+    position:fixed;
+    color:white;
+    margin-left: 755px;
+    margin-top: 500px;
+    font-size: 50px;
+}
+footer .gambar {
+    position:fixed;
+    margin-left:220px;
+    margin-bottom:-15px;
+    width:18%;
+    height:18%;
+}
+footer .gambar2 {
+    margin-left: 470px;
+    margin-bottom: 10px;
+    width:6%;
+    height:10%;
+}
